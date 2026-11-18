@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# private / local only
+CLAUDE.md
+.claude/
+_old-draft/
+assets/
